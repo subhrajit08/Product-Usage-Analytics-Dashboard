@@ -54,7 +54,6 @@ Quick-glance metrics including:
 | Category | Technology |
 |--------|-----------|
 | Framework | Next.js (React) |
-| Charting | Chart.js, react-chartjs-2 |
 | Styling | Tailwind CSS |
 | Database | SQL (`analytics_db.sql`) |
 
@@ -64,7 +63,7 @@ Quick-glance metrics including:
 
 ### Prerequisites
 - Node.js (v16 or later recommended)
-- npm or yarn
+- npm
 
 ---
 
@@ -131,7 +130,6 @@ http://localhost:3000
 - Real-time data streaming
 - User authentication & role-based views
 - Export reports (CSV/PDF)
-- Advanced anomaly detection
 
 ---
 
