@@ -18,13 +18,11 @@ A modern, high-performance analytics dashboard built with **Next.js** and **Reac
   - Uploaded → Processed → Published
 - Identify:
   - Drop-offs
-  - Bottlenecks
   - Trends over time
 
 ### Interactive Data Breakdown
 - Scrollable and sortable lists
 - Sorting options:
-  - A–Z
   - Publish Rate
   - Processed Volume
 - Includes:
