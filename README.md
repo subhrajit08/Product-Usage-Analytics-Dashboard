@@ -102,7 +102,7 @@ http://localhost:3000
 ## Project Structure
 
 ```
-├── /app or /pages        # Main Next.js pages and API routes
+├── /app                 # Main Next.js pages and API routes
 │   └── /api/dashboard   # Backend data endpoint
 ├── /public              # Static assets
 ├── analytics_db.sql     # SQLite database
