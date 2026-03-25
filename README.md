@@ -104,6 +104,11 @@ http://localhost:3000
 ```
 ├── /app                 # Main Next.js pages and API routes
 │   └── /api/dashboard   # Backend data endpoint
+│   └── globals.css      # Global styles
+│   └── layout.js        # Root layout
+│   └── page.js          # Main dashboard UI entry point
+├── /lib
+│   └── db.js            # SQLite connection and database utility functions
 ├── /public              # Static assets
 ├── analytics_db.sql     # SQLite database
 ├── package.json
