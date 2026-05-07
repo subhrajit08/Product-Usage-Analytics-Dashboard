@@ -71,7 +71,7 @@ Quick-glance metrics including:
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/your-username/Product-Usage-Analytics-Dashboard.git
+git clone https://github.com/subhrajit08/Product-Usage-Analytics-Dashboard.git
 cd Product-Usage-Analytics-Dashboard
 ```
 
