@@ -71,8 +71,8 @@ Quick-glance metrics including:
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/subhrajit08/Product-Usage-Analytics-Dashboard.git
-cd Product-Usage-Analytics-Dashboard
+git clone https://github.com/subhrajit08/product-usage-analytics-dashboard.git
+cd product-usage-analytics-dashboard
 ```
 
 2. **Install dependencies**
